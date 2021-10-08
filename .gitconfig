@@ -1,0 +1,7 @@
+[user]
+	email = naovilla2002@gmail.com
+	name = Tu Nombre
+[core]
+	editor = nano
+[credential]
+	helper = store
