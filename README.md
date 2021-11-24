@@ -1,4 +1,4 @@
-# Shati
+# Sathi
 
 - Parte Marketing:
 
