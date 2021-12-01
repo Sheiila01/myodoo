@@ -1,4 +1,8 @@
-# Shati
+# Sathí titulo del Proyecto
+Nuestro proyecto es una veterinaria que se llama Sathí. Sathí significa amigo en Nepalí. En la India se práctica el jainismo, religión que consiste en proteger a los animales. 
+La veterinaria cuenta con una página web desde la que puedes realizar compras, agendar citas y conocer nuestros eventos. 
+
+Nuestro proyecto empresarial es gestionado a través del sistema Odoo, haciendo uso de diferentes módulos, como:  
 
 - Parte Marketing:
 
