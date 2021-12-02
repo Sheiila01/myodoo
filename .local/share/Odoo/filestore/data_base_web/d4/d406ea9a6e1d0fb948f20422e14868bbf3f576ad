@@ -1,0 +1,50 @@
+
+        
+            
+            
+            
+            
+                .o_company_1_layout {
+                font-family: 'Lato';
+
+            
+                &.o_clean_footer {
+                    border-top: 3px solid #af8b53;
+                    h4 {
+                        color: #af8b53;
+                    }
+                    .pagenumber {
+                        border: 3px solid #6e2e17;
+                        background-color: #af8b53;
+                    }
+                }
+                &.o_report_layout_clean {
+                    h1, h2, h3 {
+                        color: #6e2e17;
+                    }
+                    strong {
+                        color: #af8b53;
+                    }
+                    table {
+                       thead {
+                           color: #af8b53;
+                           tr th {
+                                border-top: 3px solid #af8b53 !important;
+                            }
+                        }
+                        tbody {
+                            tr:last-child td {
+                                border-bottom: 3px solid #af8b53;
+                            }
+                        }
+                    }
+                    #total {
+                        strong {
+                            color: #af8b53;
+                        }
+                    }
+                }
+            
+            }
+        
+    
