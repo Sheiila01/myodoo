@@ -25,10 +25,9 @@ Para crear el evento Apertura de Veterinaria. He utilizado el módulo Eventos, y
 
 ![](Imagenes/ParteEventos/EventosCreados.PNG)
 
-La configuracion del Evento.
-Para poder crear eventos dentro del sistema de Odoo, hemos necesitado del módulo Evento. Se generará una parte de Servicios en la cuál puedes registrarte al Evento.
+Se generará una parte de Servicios en la cuál puedes registrarte al Evento.
 
-En la parte de Eventos he configurado una encuenta, para añadir feedback al evento, parte de Satisfacción por parte de la gente asistida al Evento.
+En la parte de Eventos he configurado una encuesta, para añadir feedback al evento, parte de Satisfacción por parte de la gente asistida al Evento.
 
 ![](Imagenes/ParteMarketing/4.PNG)
 
